@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web And App Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 saifrizwankhan786@gmail.com
 
 <!---
 saifurrehman15/saifurrehman15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
