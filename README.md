@@ -3,11 +3,10 @@
 ### About Me
 I'm a passionate front-end developer specializing in web development. I enjoy creating responsive and dynamic websites with a focus on clean, maintainable code.
 
-- 🌍 I'm based in [Your Location]
-- 🛠️ I'm currently working on [Your Current Project]
-- 🌱 I’m learning [Technologies or Skills You're Learning]
-- 💬 Ask me about JavaScript, React, CSS
-- 📫 How to reach me:
+- 🛠️ I'm currently working on Educational Institute Web
+- 🌱 I’m learning React
+- 💬 Ask me about JavaScript, CSS
+- 📫 How to reach me: <a href='mailto:saifrizwankhan786@gmail.com'>saifrizwankhan786@gmail.com</a>
 
 
 ### Social Media
