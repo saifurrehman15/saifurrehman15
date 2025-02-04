@@ -20,8 +20,7 @@ I'm a passionate front-end developer specializing in web development. I enjoy cr
 ### Skills
 <p align="left">
   <a href="www.bootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-    style="height:40px"/>
+    <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="height:40px"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="height:40px"/>
