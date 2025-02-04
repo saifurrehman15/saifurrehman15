@@ -35,7 +35,7 @@ I'm a passionate front-end developer specializing in web development. I enjoy cr
     <img alt="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:40px"/>
   </a>
      <a href="https://firebase.google.com/" target="_blank">
-    <img alt="Firebase" src="https://camo.githubusercontent.com/3e5344a2965e786497ceb575ad67d2c64d412bb9683da05791edf424a0e40734/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" style="height:40px"/>
+    <img alt="Firebase" src="https://camo.githubusercontent.com/3e5344a2965e786497ceb575ad67d2c64d412bb9683da05791edf424a0e40734/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"style="height:40px"/>
   </a>
 </p>
 
