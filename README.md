@@ -4,7 +4,7 @@
 I'm a passionate front-end developer specializing in web development. I enjoy creating responsive and dynamic websites with a focus on clean, maintainable code.
 
 - 🛠️ I'm currently working on Educational Institute Web
-- 🌱 I’m learning React
+- 🌱 I’m learning Nestjs
 - 💬 Ask me about JavaScript, CSS
 - 📫 How to reach me: <a href='mailto:saifrizwankhan786@gmail.com'>saifrizwankhan786@gmail.com</a>
 
